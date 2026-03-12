@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="enforce_dot_walk_cross_scope_access=true" audit="true" db_object_id="7f3720da83eb32107a03c596feaad37b" extends="sn_creatorstudio_task" label="Wish List Request" max_length="40" name="x_1112332_wish_l_0_request" type="collection">
+        <element label="Requester" max_length="32" name="requester" reference="sys_user" type="reference"/>
+        <element label="Item" max_length="125" name="item" type="string"/>
+    </element>
+</database>

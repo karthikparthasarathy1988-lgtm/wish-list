@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_applicability_m2m_list">
+    <sys_ux_applicability_m2m_list action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applicability display_value="Wish List Audience">894724da83eb32107a03c596feaad36e</applicability>
+        <list display_value="All">994724da83eb32107a03c596feaad3b8</list>
+        <order>0</order>
+        <sys_class_name>sys_ux_applicability_m2m_list</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-03-12 19:18:47</sys_created_on>
+        <sys_id>dd4724da83eb32107a03c596feaad3bb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Wish List" source="x_1112332_wish_l_0">af37ec9a83eb32107a03c596feaad3c2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Wish List">af37ec9a83eb32107a03c596feaad3c2</sys_scope>
+        <sys_update_name>sys_ux_applicability_m2m_list_dd4724da83eb32107a03c596feaad3bb</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-03-12 19:18:47</sys_updated_on>
+    </sys_ux_applicability_m2m_list>
+</record_update>
